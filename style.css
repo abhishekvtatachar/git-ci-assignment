@@ -1,0 +1,14 @@
+.nav-ele{
+    margin-left: 30px;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+.carousel{
+    border-radius: 20px;
+}
+.carousel-item img{
+    border-radius: 20px;
+}
